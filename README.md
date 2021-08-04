@@ -1,5 +1,5 @@
 ## Project Comperio
-> about
+> Build and visualize Instagram subcultures and their connections to each other.
 
 ### Installation
 ```
