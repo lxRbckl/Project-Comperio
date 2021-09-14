@@ -1,5 +1,5 @@
 ## Project Comperio
-> Build and visualize Instagram subcultures and their connections to one another. Spring 2020.
+> Conceptualize an Instagram user's connections to their followers and their relationship to one another. Spring 2020.
 
 ### Installation
 ```
