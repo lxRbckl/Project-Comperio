@@ -8,6 +8,7 @@ pip3 install xlwt
 pip3 install xlutils
 pip3 install selenium
 pip3 install Discord.py
+pip3 install webdriver-manager
 
 cd
 git clone https://github.com/lxRbckl/Project-Comperio.git
