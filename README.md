@@ -1,5 +1,5 @@
 ## Project Comperio
-> Conceptualize an Instagram user's connections to their followers and their relationship to one another. Spring 2020.
+> Conceptualize instagram followers and their relationship to one another. Spring 2020.
 
 ### Installation
 ```
