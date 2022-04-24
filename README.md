@@ -1,7 +1,7 @@
 ## [`Project Comperio`](http://lxrbckl.com/Project-Comperio)
 > Conceptualize Instagram followers and their relationship to one another. Spring 2020.
 
-### Installation
+### `Installation`
 ```
 pip3 install xlrd
 pip3 install xlwt
