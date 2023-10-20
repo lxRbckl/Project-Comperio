@@ -1,2 +1,2 @@
-## [`Project Comperio`](http://lxrbckl.com/Project-Comperio)
-> Conceptualize Instagram followers and their relationship to one another. Spring 2020.
+### Project Comperio
+> Visualize the connections between Instagram followers and their interrelationships. Spring 2020.
